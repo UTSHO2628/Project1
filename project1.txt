@@ -1,2 +1,7 @@
-GitHub
-2nd text
+// New Repository
+git init
+git remote add origin "repository link"
+git add .
+git commit -m "commit message"
+git branch -M "branch name"
+git push -u origin "branch name"
